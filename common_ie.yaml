@@ -1,0 +1,13 @@
+'test_session': "1"
+'batch_size': 16
+'label_list': ['Excited','Anger','Sad','Neutral']
+'front_path': '/home/felix/Aopp/0.0/IEMOCAP/iemocap/IEMOCAP_full_release'
+'fusing_folder': 'lablefusing_video'
+
+'load_path': '/home/felix/Aopp/mm/video_F'
+
+'o_model_path': '/home/felix/Aopp/wav2vec_large.pt'
+'lr1' : 0.00001
+'lr2' : 0.01
+'epoch': 300
+

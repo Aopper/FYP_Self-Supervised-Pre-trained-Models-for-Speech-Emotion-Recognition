@@ -1,0 +1,12 @@
+# For EmoDB training
+'test_speaker': "14"
+'batch_size': 64
+'label_list': ['P','NH','NL','Ne']
+'optimizer': 'Adam'
+'load_path': '/home/felix/Aopp/mm/E_NF_RGT'
+
+'o_model_path': '/home/felix/Aopp/wav2vec_large.pt'
+'lr1' : 0
+'lr2' : 0.01
+'epoch': 200
+
